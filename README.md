@@ -1,45 +1,42 @@
-# [Project Name]
+# DebugBuddy
 
-> [One-line description of the project and what it does.]
-
+> AI-powered debugging mentor that guides beginner coders to fix their own bugs through progressive, step-by-step hints and concept explanations instead of just handing out raw solutions.
 ## Team
 
-**Team Name:** [Team Name]
+**Team Name:** MutantX
 
 
 | Member | Contribution   |
 | ------ | -------------- |
-| [Name] | [Contribution] |
-| [Name] | [Contribution] |
-| [Name] | [Contribution] |
-| [Name] | [Contribution] |
+| Prajan Kumar S | BACKEND |
+| Rathish|FRONTEND|
+| Lalith Sudharsan M M |TESTING |
+| DHARUNEASHWAR E | GITHUB |
 
 
 ## Problem Statement
 
 ### The Problem
 
-[Describe the problem being addressed, who is affected by it, and the context in which it occurs.]
-
+Bridging the Learning Gap in Beginner Coding Education: Beyond Passive AI Code Generation
 ### Why We Chose This Problem
 
-[Explain why the team selected this problem and why solving it is important.]
-
+As students ourselves, we constantly see peers get stuck on simple compiler errors, panic at cryptic tracebacks, and resort to copy-pasting answers from ChatGPT—fixing the bug in seconds but learning nothing for the exams or real-world coding.
 ## Solution
 
-[Describe the proposed solution and how it addresses the problem.]
-
+AI-powered pedagogical coding assistant that decodes complex execution errors into simple language for beginner programmers. By replacing instant code-rewriting with a multi-tiered hint system and concept-level explanations, it guides students to identify, understand, and fix their own bugs—building true problem-solving skills rather than AI dependency.
 ### Key Features
 
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
-- [Feature 4]
+- Learn Mode(Progressive Hints)
+- Plain-Language Error & Line Decoder
+- Core Concept Mini-Lessons
+- Fix Mode
 
 ## Innovation and Differentiation
 
-[Explain what is innovative about the approach and how it differs from existing or conventional solutions.]
+Progressive Cognitive Friction: Instead of dumping an instant fix, ErrMentor uses a multi-tiered hint system that acts as a scaffold. It gives students just enough directional guidance (Hint 1 $\rightarrow$ Hint 2 $\rightarrow$ Hint 3) to prompt their own "aha!" moment, preserving the critical learning process.
 
+Pedagogical AI Prompting: Rather than using LLMs as raw code generators, ErrMentor leverages structured Socratic system prompts to transform complex, intimidating execution tracebacks into bite-sized mental models and concept mini-lessons.
 ## Technical Implementation
 
 ### Architecture
