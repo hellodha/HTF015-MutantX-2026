@@ -108,7 +108,7 @@ Open the link, choose an example from the dropdown (or paste your own code and e
 
 ## Demo Video
 
-**Demo Video:** VIDEO_URL_HERE
+**Demo Video:** https://youtu.be/ufm8n5JLr3w
 
 The video shows the main flow: pick an error, read the explanation, reveal the hints one by one, switch language, try the practice problem, and see the mistake tracker.
 
