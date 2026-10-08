@@ -17,7 +17,7 @@
 ## Problem Statement
 
 ### The Problem
-dharun
+
 Bridging the Learning Gap in Beginner Coding Education: Beyond Passive AI Code Generation
 ### Why We Chose This Problem
 
