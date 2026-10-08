@@ -160,7 +160,7 @@ streamlit run app.py
 
 ## Devpost Submission
 
-**Devpost Project:** DEVPOST_URL_HERE
+**Devpost Project:** https://dev.to/pkdoodle18/debugbuddy-an-ai-mentor-that-teaches-beginners-to-fix-their-own-bugs-2f4o
 
 ## Challenges and Learnings
 - Getting the model to return clean JSON every time, and stopping the explanation from revealing the fix
