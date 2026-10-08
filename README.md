@@ -102,7 +102,7 @@ Everything was built during Hacktoberfest Hack Day: the prompt design and `analy
 
 ## Working Application
 
-**Live Application:** LIVE_URL_HERE
+**Live Application:** https://debugbuddy-atwnvibs4f37dbuubepuvw.streamlit.app/
 
 Open the link, choose an example from the dropdown (or paste your own code and error), pick Learn or Fix mode and an explanation language, and click **Help me understand**. You can also click **Give me a practice problem** and watch the mistake tracker in the sidebar. "Run my code" mode is switched off on the public demo for safety and works locally.
 
